@@ -1,0 +1,137 @@
+painting_id,year,title,width,height
+b104,1920,No. VI,1010,1007
+b105,1920,Composition A,918,900
+b106,1920,Composition B,575,677
+b107,1920,Composition C,610,603
+b108,1920,Composition I,646,750
+b109,1920,Composition II,564,630
+b113,1920,Tableau no. I,651,753
+b114,1920,"Composition with yellow, red, black, blue and gray",610,525
+b115,1921,"Composition with red, black, yellow, blue and grey",500,800
+b116,1921,"Composition with yellow, blue, black, red, and gray",727,885
+b117,1921,"Composition with large blue plane, red, black, yellow and gray",500,605
+b120,1921,"Composition with large red plane, black, blue, yellow and gray",480,480
+b121,1921,Tableau no. II,650,750
+b122,1921,Tableau,495,495
+b123,1921,Tableau 3,415,495
+b125,1921,"Compositie met rood, blauw, zwart, geel en grijs",350,395
+b126,1921,Tableau I,605,965
+b128,1921,Tableau I,1000,1030
+b129,1921,Tableau II,990,1010
+b130,1921,"Composition with large red plane, yellow, black, gray and blue",595,595
+b131,1921,"Composition with red, yellow, black, blue, and gray",380,480
+b132,1921,"Composition with red, blue, black, yellow and gray",524,760
+b133,1922,Tableau no. III,492,492
+b134,1922,"Composition with blue, yellow, red and gray",348,380
+b135,1922,"Composition with blue, black, yellow and red",347,390
+b136,1922,"Composition with blue, black, yellow and red",490,410
+b137,1922,"Composition with red, blue, yellow, black and gray",486,419
+b138,1922,"Composition with blue, yellow, red, black, and gray",500,420
+b139,1922,"Composition with yellow, black, blue, red, and gray",500,400
+b141,1922,"Composition with blue, yellow, red, and black",485,420
+b142,1922,"Composition with blue, red, yellow, and black",495,790
+b143,1922,"Composition with yellow, blue, and blue-white",533,553
+b144,1922,"Composition with large red plane, bluish gray, yellow, black, and blue",534,540
+b145,1922,"Composition with blue, yellow, black, and red",540,530
+b146,1922,Tableau 2,534,556
+b147,1922,"Compostion with red, black, yellow, blue, and gray",390,501
+b150,1923,Tableau,535,540
+b159,1925,Tableau no. VII,435,485
+b160,1925,Tableau no. VIII,415,490
+b162,1925,Tableau no. X,425,490
+b163,1922,Tableau no. XI,345,385
+b170,1926,Komposition II,508,508
+b172,1926,Komposition IV,300,400
+b182,1927,"Composition with yellow, red, and blue",345,380
+b183,1927,"Composition with blue, black, and gray",350,382
+b185,1927,"Composition with blue, yellow, and red",503,398
+b187,1927,"Composition with red, yellow, and blue",350,380
+b188,1927,"Composition with red, yellow, and blue",511,511
+b189,1927,"Composition with black, red, and gray",560,560
+b190,1927,No. III,400,610
+b191,1927,"Composition with red, yellow, and blue",520,400
+b192,1927,Compositie no. I,350,380
+b193,1927,No. I,540,735
+b194,1927,No. III,355,380
+b195,1927,"Composition with red, blue, and gray",500,660
+b196,1927,No. II,352,502
+b197,1927,Composition with yellow and blue,395,500
+b198,1927,Compositie with yellow and red,350,520
+b199,1927,"Composition with yellow, red, and blue",349,378
+b200,1927,"Composition with red, yellow, and blue",520,750
+b201,1928,"Large composition with red, blue, and yellow",800,1230
+b203,1928,"Composition with red, black, blue, yellow, and gray",499,521
+b204,1928,"Composition with red, black, blue, and yellow",450,450
+b206,1929,Composition,453,451
+b207,1929,Composition,505,505
+b208,1929,Composition no. I,321,401
+b209,1929,Composition no. II,321,403
+b210,1929,Composition no. III,454,454
+b212,1929,Composition II,450,450
+b213,1929,Composition no. III,505,500
+b214,1929,Composition no. I,520,520
+b215,1929,Composition no. II,520,520
+b216,1929,Composition no. IV,515,520
+b217,1930,"Composition with red, blue and yellow",460,460
+b219,1930,Composition no. II,510,510
+b220,1930,Composition no. I,505,505
+b221,1930,Composition with yellow,465,460
+b222,1930,Composition II,540,726
+b223,1930,Composition en blanc et noir I,333,409
+b224,1930,Composition en blanc et noir II,505,505
+b225,1930,Composition no. II,505,505
+b226,1931,Composition no. I,547,825
+b227,1931,Composition en couleurs,505,505
+b228,1931,Composition no. II,520,520
+b230,1932,Composition A,550,550
+b231,1932,Composition B,500,500
+b232,1932,Composition C,504,502
+b233,1932,Composition D,385,420
+b234,1932,Composition with yellow and blue,553,555
+b235,1932,Composition with blue and yellow,454,454
+b236,1932,Composition with yellow and blue,330,413
+b237,1932,Composition with double line and yellow,452,452
+b238,1933,Composition with double line and yellow and blue,335,410
+b239,1933,Composition with red and blue,333,412
+b240,1933,Composition with blue and yellow,330,415
+b243,1934,"Composition in black and white, with double lines",603,594
+b244,1934,Composition no. I,590,1213
+b245,1934,Composition no. II,565,590
+b252,1935,Composition no. IV blanc-bleu,703,990
+b253,1935,Composition A,560,590
+b254,1935,Composition B,632,800
+b255,1935,Composition (no. I) gris-rouge,550,569
+b256,1935,Composition (no. II) bleu-jaune,693,723
+b257,1935,Composition (no. III) blanc-jaune,510,1010
+b259,1935,Composition with double line and blue,689,711
+b260,1935,Composition A (no. I),505,1000
+b261,1935,Composition C (no. III),551,562
+b262,1936,Composition (A) en rouge et blanc,330,432
+b263,1936,"Composition (B), en bleu, jaune et blanc",335,435
+b264,1936,Composition with yellow,660,740
+b265,1936,"Composition - blanc, rouge et jaune: A",622,800
+b266,1936,Composition - blanc et rouge: B,505,515
+b267,1936,"Composition in White, Blue and Yellow",685,705
+b268,1936,"Composition en blanc, rouge et bleu",803,985
+b269,1936,"Composition en blanc, noir et rouge",1040,1020
+b271,1937,"Composition en jaune, bleu et blanc: I",552,571
+b272,1937,"Composition en rouge, bleu et blanc: II",605,750
+b273,1937,"No. I: Opposition de lignes, de rouge et jaune",335,435
+b274,1937,No. II: Blanc et rouge,552,603
+b275,1937,No. III: Opposition de lignes de blanc et jaune,550,600
+b276,1937,Rythme de lignes droites,695,722
+b277,1937,Composition de lignes et couleur: III,770,800
+b279,1937,"Composition with Yellow, Blue and Red",690,725
+b280,1937,Composition no. 12,605,620
+b281,1937,Composition no. 7,622,805
+b283,1938,Place de la Concorde,944,940
+b284,1939,Composition no. 2,382,446
+b285,1938,Composition of red and white: I,991,1003
+b286,1939,Composition no. 5,650,750
+b287,1939,Composition no. 9,740,797
+b288,1939,Composition no. 10,730,795
+b292,1939,Composition no. 1,1023,1052
+b293,1939,"Composition of red, blue and white: II",330,435
+b294,1939,Trafalgar Square,1200,1452
+b295,1939,Composition no. 8,681,752
+b296,1940,Composition no. 11,711,825
